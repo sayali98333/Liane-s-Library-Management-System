@@ -40,26 +40,26 @@ The app lets you manage a book collection, keep a list of borrowers, lend and re
 ### 📊 Dashboard
 Live totals for books, friends and loans, an overdue warning and the list of current loans.
 
-![Dashboard](docs/dashboard.jpeg)
+![Dashboard](images/dashboard.jpeg)
 
 ### 📚 Books
 Add, update and delete books from expandable panels, then browse and search the full collection.
 
 | Manage books | All books with search |
 |---|---|
-| ![Books actions](docs/books-actions.jpeg) | ![Books list](docs/books-list.jpeg) |
+| ![Books actions](images/books-actions.jpeg) | ![Books list](images/books-list.jpeg) |
 
 ### 👥 Friends
 Manage borrowers and search them by name or email.
 
 | Manage friends | All friends with search |
 |---|---|
-| ![Friends actions](docs/friends-actions.jpeg) | ![Friends list](docs/friends-list.jpeg) |
+| ![Friends actions](images/friends-actions.jpeg) | ![Friends list](images/friends-list.jpeg) |
 
 ### 📖 Loans
 See every loan, then borrow, return or extend a book.
 
-![Loans](docs/loans.jpeg)
+![Loans](images/loans.jpeg)
 
 ---
 
@@ -133,7 +133,7 @@ lianes-library-app/
 ├── .gitignore
 ├── .streamlit/
 │   └── secrets.toml          # not committed
-├── docs/                     # screenshots
+├── images/                   # screenshots
 ├── sql/
 │   ├── library_schema.sql    # schema and tables
 │   └── datalibrary.sql       # sample data
@@ -245,3 +245,6 @@ Open **http://localhost:8501** in your browser.
 Data Analytics & AI, WBS Coding School
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sayali--ware-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayali-ware)
+
+
+
